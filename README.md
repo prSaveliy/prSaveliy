@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🧠 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Roboto&ext=activity)
+
 
 <!--
 **prSaveliy/prSaveliy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
