@@ -1,5 +1,5 @@
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/your_leetcode_username?theme=dark&font=Roboto&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/prSaveliy?theme=dark&font=Roboto&ext=activity)
 
 
 <!--
