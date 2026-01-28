@@ -60,3 +60,4 @@ I am working with a diverse set of technologies:
 
 I’m a proud member of the Second Forum of Talented Youth in Ukraine, where I connected with peers, shared ideas, and explored innovative projects.
 <p><img width="794" height="596" alt="Image" src="https://github.com/user-attachments/assets/085f923c-98e7-4205-a60a-374380067a37" /></p>
+Photo from [Suspilne Kyiv](https://suspilne.media/)
