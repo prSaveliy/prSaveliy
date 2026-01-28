@@ -52,7 +52,7 @@ I am working with a diverse set of technologies:
 ##  Get in touch
 
 - Always open to collaborate on projects or hackathons  
-- Feel free to reach me via [email](papsavel@gmail.com) or Telegram: @xxyatagarasu
+- Feel free to reach me via Email: **papsavel@gmail.com** or Telegram: **@xxyatagarasu**
 
 ---
 
