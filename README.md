@@ -1,4 +1,4 @@
-# Hi there 👋, I’m Prysiazhnyi Savelii
+# Hi there 👋
 
 I’m currently a first-year student at National Technical University of Ukraine “Igor Sikorsky Kyiv Polytechnic Institute” exploring the world of software development and building real projects with modern tools.
 
