@@ -8,8 +8,3 @@
 ### Currently working on:
 
  - [Chart Alchemy](https://github.com/prSaveliy/chart-alchemy) - Web application for data visualization using LLM
-
-##  Get in touch
-
-- email: papsavel@gmail.com
-- tg: @xxyatagarasu
